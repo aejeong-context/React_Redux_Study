@@ -3,4 +3,9 @@ Servers/
 *.class 
 *.classpath 
 /target/ 
+<<<<<<< HEAD
 /bin/
+=======
+/bin/
+
+>>>>>>> a25a8853007b1729669595c103d53a6864ceb5e1
